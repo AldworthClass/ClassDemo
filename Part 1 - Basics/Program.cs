@@ -10,7 +10,7 @@ namespace Part_1___Basics
     {
         static void Main(string[] args)
         {
-            int age = 99;
+            int age = 38;
             string name = "Steve";
 
             Console.WriteLine($"Hi {name}, you are {age} years old.");
