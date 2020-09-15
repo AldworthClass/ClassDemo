@@ -11,9 +11,10 @@ namespace Part_1___Basics
         static void Main(string[] args)
         {
             int age = 38;
-            string name = "Gary";
+            string name = "Steve";
+            string lastName = "Aldworth";
 
-            Console.WriteLine($"Hi {name}, you are {age} years old.");
+            Console.WriteLine($"Hi {name} {lastName}, you are {age} years old.");
 
             Console.ReadLine();
         }
